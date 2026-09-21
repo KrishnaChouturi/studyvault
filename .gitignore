@@ -1,0 +1,5 @@
+# Personal exported study data
+studyvault_*.json
+backups/
+.DS_Store
+Thumbs.db
